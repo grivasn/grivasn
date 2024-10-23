@@ -24,3 +24,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=grivasn&show_icons=true&locale=en" alt="grivasn" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=grivasn&" alt="grivasn" /></p>
+
+![snake gif](https://github.com/grivasn/grivasn/blob/output/github-contribution-grid-snake.gif)
