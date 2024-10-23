@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Furkan Sipahi</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from Türkiye</h3>
 
 - 👨‍💻 All of my projects are available at [https://fs-personel-portfolio.netlify.app/](https://fs-personel-portfolio.netlify.app/)
 
