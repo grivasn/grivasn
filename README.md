@@ -2,13 +2,13 @@
 
 
 <h1 align="center">Hi 👋, I'm Furkan Sipahi</h1>
-<h3 align="center">A passionate frontend developer from Türkiye</h3>
+<h3 align="center">A passionate Data analytics from Türkiye</h3>
 
 - 👨‍💻 All of my projects are available at [https://fs-personel-portfolio.netlify.app/](https://fs-personel-portfolio.netlify.app/)
 
-- 💬 Ask me about **Front-End Developer**
+- 💬 Ask me about **Data analytics**
 
-- 📫 How to reach me **furkansipahi1907@gmail.com**
+- 📫 How to reach me **furkan.sipahi@hotmail.com.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
